@@ -1,1 +1,1 @@
-
+A little test mod I did to find out how it would play if I had houses automatically generated villagers and military units cost no housing space while being much more expensive. Think of a growing city and a slower mid game with a bigger late game. It was semi successful, the house tactic does work, but I couldn't make it cost resources to work. Neither was I able to do add upkeep to units. 
