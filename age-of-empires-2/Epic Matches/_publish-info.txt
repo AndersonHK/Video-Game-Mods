@@ -1,0 +1,44 @@
+Visibility=PUBLIC
+Description=Rebalances game allowing for much more mid-game warfare and epic sieges.
+Recommended to use when playing on Giant/Ludicris maps.
+
+Alpha 0.1:
+-Brings up age upgrade cost so drush and flush are more viable.
+-Increased health, armor and cost of walls.
+Alpha 0.2:
+-Fishing Ship gains 2 LOS per age
+-Castle and Imperial Age cost increased
+-Farms take 40s to build
+-Farms no longer affected by build speed research
+-Farms cost 10 less wood
+-Drop-Off Buildings Cost Increased by 50 wood
+-Loom Applies to Militia
+-Man-At-Arms onwards have +1/+2 armor and +15hp
+-Increased cost for population cap to 6
+-Increased Trebuchet packing time
+-Wonder cost doubled
+-Sheep have less view range
+Alpha 0.3:
+-Fixed militia-line armor display
+-Loom now costs 100 gold
+Alpha 0.4:
+-Doubled the cost of Fortified Wall Research
+-Ram blast damaged reduced to <1 and added delay to sinc with animation
+-Bombard tower now does meele damage at 10rng
+-Guard and Keep upgrades give +1 range to castle and towers
+-Castle and towers won't fire without garison
+-Garison size of buildings increased by 1
+-Increased tower upgrade cost by 50%
+Alpha 0.5:
+-Population cap increased by 4500(to 5000)
+-Huns can build houses starting in Feudal
+-Civilian Buildings (except houses, farms and town centers, dock, and wonders requires 1 housing)
+-Farm upgrade cost doubled
+-Farm cost down to 45 (from 50)
+-Farm build time now 60s
+-Increased cost for population cap to 7
+-Further increased trebuchet pack time
+-Herdables line of sight set to 1
+
+Known issue:
+-Italian age-up research cost too low
