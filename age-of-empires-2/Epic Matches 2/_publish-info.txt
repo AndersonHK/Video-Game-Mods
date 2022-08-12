@@ -1,0 +1,104 @@
+Visibility=PUBLIC
+Description=Rebalances game allowing for much more mid-game warfare and epic sieges.
+Recommended to use when playing on Giant/Ludicris maps.
+WARNING: AI won't know how to advance ages.
+
+Alpha 0.1:
+-Brings up age upgrade cost so drush and flush are more viable.
+-Increased health, armor and cost of walls.
+Alpha 0.2:
+-Fishing Ship gains 2 LOS per age
+-Castle and Imperial Age cost increased
+-Farms take 40s to build
+-Farms no longer affected by build speed research
+-Farms cost 10 less wood
+-Drop-Off Buildings Cost Increased by 50 wood
+-Loom Applies to Militia
+-Man-At-Arms onwards have +1/+2 armor and +15hp
+-Increased cost for population cap to 6
+-Increased Trebuchet packing time
+-Wonder cost doubled
+-Sheep have less view range
+Alpha 0.3:
+-Fixed militia-line armor display
+-Loom now costs 100 gold
+Alpha 0.4:
+-Doubled the cost of Fortified Wall Research
+-Ram blast damaged reduced to <1 and added delay to sinc with animation
+-Bombard tower now does meele damage at 10rng
+-Guard and Keep upgrades give +1 range to castle and towers
+-Castle and towers won't fire without garison
+-Garison size of buildings increased by 1
+-Increased tower upgrade cost by 50%
+Alpha 0.5:
+-Population cap increased by 4500(to 5000)
+-Huns can build houses starting in Feudal
+-Civilian Buildings (except houses, farms and town centers, dock, and wonders requires 1 housing)
+-Farm upgrade cost doubled
+-Farm cost down to 45 (from 50)
+-Farm build time now 60s
+-Increased cost for population cap to 7
+-Further increased trebuchet pack time
+-Herdables line of sight set to 1
+Alpha 0.6:
+-No more Thumb Ring Accuracy bonus
+-Outpost line of sight increased from 6 to 9 (+1 per each age instead of 2)
+-Outposts now fire arrows (5dmg at 6rng, 4 garrison of villagers only)
+-Outposts cost and build time doubled
+-Huntables spawn new ones after decaying
+-Farms take 75s to build
+-Teutonic Knight Pierce Armor +1/+2 (normal/elite)
+-Increased cost for population cap to 10
+-Production cost increased to 4 wood per train time
+-Town Center view range increased by 1 to 7
+-Military buildings require 1 population (except castle)
+-Market, Siege Workshop, and university now costs 300 wood, 60s and 2 pop space
+Alpha 0.7:
+-Archer Rework: Accuracy is set to 0, New Angle is set to (old angle / accuracy / range * 4 * 100)
+-Advancing to Feudal requires two of list [Blacksmith, Market, Archery Range, Stable]
+-Blacksmith now requires only Mining Camp and Barracks
+-Market now requires only Mill and Farm
+-Archery Range now requires only Barracks and Lumber Camp
+-Stable now only requires Barracks and Mill
+-Man at Arms requires Forging
+-Archer requires Fletching
+-Spearman requires Blacksmith
+-Skirmisher requires Archery Range
+-Blacksmith Feudal Technologies require only Blacksmith + relevant building
+-Archer now has twice the reload time, minimum range, +2 range, double damage, and double frame delay
+-Crossbow now has twice the reload time, minimum range, +2 range, double damage, and double frame delay
+-Cavalry Archer now has twice the reload time, minimum range, +2 range, double damage, and double frame delay
+-Skirmisher now has twice the reload time, and double damage
+-Elite Skirmisher now has twice the reload time, and double damage
+-Farm Wood cost down to 40 (from 45)
+-Knights require Castle to be built and both Feudal Blacksmith Technologies
+-Light Cavalry Upgrade requires four of list [Forging, Iron Casting, Scale Barding, Chain Barding, Bloodlines]
+-Crossbow Upgrade requires three of list [Fletching, Bodkin Arrow, Padded Armor, Leather Armor]
+-Cavalry Archer requires Fletching, Padded Armor, Feudal Age and a Stable
+-Elite Skirmisher Upgrade requires three of list [Fletching, Bodkin Arrow, Padded Armor, Leather Armor]
+-Long Swordsman Upgrade requires three of list [Forging, Iron Casting, Scale Mail, Chain Mail]
+-Pikeman Upgrade requires three of list [Forging, Iron Casting, Scale Mail, Chain Mail]
+-Towers and Castle reajusted with dmg equal to Archer Line
+-Castle only requies Feudal Age
+-Feudal Eco Technologies available with Market
+-Town Watch requires just Barracks or Archery Range
+-Castle Blacksmith Technologies require University
+-University requires Feudal, Blacksmith, and Market
+Alpha 0.8:
+-Monastery only requires Feudal Age
+-Monks only require Monastery
+-Castle Age requires only a Castle or two of list [Monastery, University, Siege Workshop]
+-Siege Workshop only requires Feudal, and Blacksmith
+-Battering Ram only requies Siege Workshop, and Barracks
+-Mangonel only requies Siege Workshop, and Archery Range
+-Scorpion only requies Siege Workshop, and Archery Range
+-Wonder requires Castle Age only
+-Building Wonder activates "Wonder Built Tech"
+-Imperial Age requires Wonder Built Tech also
+-Longbow now has twice the reload time, minimum range, +2 range, double damage, and double frame delay
+
+Known issues:
+-Italian age-up research cost too low
+-Sometimes Replays Fail (probably related to buildings population cost)
+-AIs won't build walls or garison towers
+-Queuing up units beyound pop cap prevents building population consuming buildings
